@@ -8,4 +8,5 @@ Early stopping is a technique for controlling overfitting in machine learning mo
 2-Load the pretrained model from question 1:(A), freeze all layers and replace the softmax layer with a new one to classify images with classes from 5 to 9. Use Adam optimizer and train it for 30 epoch with
 
 a- All layer freezing
+
 b- With unfreezing the last two hidden layers from the pretrained model
